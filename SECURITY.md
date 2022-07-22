@@ -1,0 +1,1 @@
+If you discover a vulnerability in [one of my projects](https://github.com/voraciousdev), **do not** open an Issue. Instead, please email me directly at [david@voracious.dev](mailto:david@voracious.dev). I will get back with you in a timely manner and address the problem as quickly as I can.
