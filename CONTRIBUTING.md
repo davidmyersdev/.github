@@ -31,4 +31,4 @@ Here are a few resources to learn more about contributing.
 - Please **do not** submit a Pull Request for an undocumented feature idea. All feature ideas should start as Discussions to ensure we have the chance to properly talk about and vet the ideas.
 - Please **do not** submit a Pull Request purely for code quality (linting, refactoring, reorganizing, etc).
 - Please **do not** comment on an Issue, Discussion, or Pull Request to engage in arguments or promote harassment. See our [Code of Conduct](https://github.com/davidmyersdev/.github/blob/main/CODE_OF_CONDUCT.md).
-- Please **do not** disclose security vulnerabilities in public. Send an email to [david@voracious.dev](mailto:david@voracious.dev) instead.
+- Please **do not** disclose security vulnerabilities in public. Send an email to [hello@davidmyers.dev](mailto:hello@davidmyers.dev) instead.
