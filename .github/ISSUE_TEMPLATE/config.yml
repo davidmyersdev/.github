@@ -1,0 +1,12 @@
+contact_links:
+  - name: How to contribute
+    about: Read the contributor guide before opening an issue.
+    url: https://github.com/davidmyersdev/.github/blob/main/CONTRIBUTING.md
+
+  - name: Minimal reproducible examples
+    about: Why must I provide a reproducible example to create an issue?
+    url: https://stackoverflow.com/help/minimal-reproducible-example
+
+  - name: Show your support
+    about: Love my work? Please consider supporting me via Ko-fi.
+    url: https://ko-fi.com/davidmyersdev
